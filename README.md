@@ -1,5 +1,3 @@
-# Sin título
-
 # ⚡ Roman Numerals Converter ⚡
 
 ¡Bienvenido al proyecto **Roman Numerals Converter**! 🎉 Esta es una aplicación construida con **Angular** que te permite convertir números romanos a su valor decimal, mostrando además un historial de conversiones en una interfaz amigable y atractiva. 🧑‍💻✨
