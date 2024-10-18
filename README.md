@@ -1,27 +1,85 @@
-# NumerosRomanos
+# Sin título
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
+# ⚡ Roman Numerals Converter ⚡
 
-## Development server
+¡Bienvenido al proyecto **Roman Numerals Converter**! 🎉 Esta es una aplicación construida con **Angular** que te permite convertir números romanos a su valor decimal, mostrando además un historial de conversiones en una interfaz amigable y atractiva. 🧑‍💻✨
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[https://your-image-url.com](https://your-image-url.com)
 
-## Code scaffolding
+## 🚀 Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- 🔢 **Conversión instantánea** de números romanos a decimales.
+- 🧩 **Historial de conversiones** en un diseño responsivo y dinámico.
+- 🚫 **Validación de errores** para evitar entradas inválidas.
+- 🔔 **Notificaciones con toast** en cada acción importante (¡te avisan si hay algún error!).
+- 💻 **Diseño moderno** utilizando **Tailwind CSS**.
 
-## Build
+## 🛠️ Tecnologías utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Este proyecto fue desarrollado utilizando las siguientes herramientas y tecnologías:
 
-## Running unit tests
+- **Angular 18**: Framework principal para la creación de la interfaz.
+- **Tailwind CSS**: Para el diseño responsivo y estilizado.
+- **ngx-sonner**: Librería para mostrar notificaciones `toast` que mejoran la UX.
+- **TypeScript**: Para el manejo de la lógica de conversión y validaciones.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 📦 Instalación
 
-## Running end-to-end tests
+Si deseas ejecutar este proyecto localmente, sigue estos pasos:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. **Clona el repositorio:**
+    
+    ```bash
+    git clone <https://github.com/rodrigoremen/roman-numerals-converter.git>
+    
+    ```
+    
+2. **Navega al directorio del proyecto:**
+    
+    ```bash
+    cd roman-numerals-converter
+    
+    ```
+    
+3. **Instala las dependencias:**
+    
+    ```bash
+    npm install
+    
+    ```
+    
+4. **Ejecuta la aplicación:**
+    
+    ```bash
+    ng serve
+    
+    ```
+    
+    Visita `http://localhost:4200` en tu navegador para ver la aplicación en acción.
+    
 
-## Further help
+## 🤖 Cómo usar la aplicación
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+1. Ingresa un número romano en el campo de texto.
+2. Haz clic en el botón `Convertir`.
+3. Si el número es válido, verás el resultado en el historial de conversiones.
+4. Si el número no es válido o el campo está vacío, recibirás una notificación 🔔 avisándote del error.
+
+
+## 🧑‍💻 Autor
+
+Desarrollado con 💜 por [Rodrigo Dorantes](https://github.com/rodrigoremen).
+
+## 🎉 Agradecimientos
+
+Gracias a todas las tecnologías que hicieron posible este proyecto. Si te gusta esta aplicación, ¡no dudes en darle una estrella ⭐ al repositorio!
+
+---
+
+### ¡Espero que disfrutes utilizando esta aplicación tanto como yo disfruté creándola! 🚀💥
+
+---
+
+## 📞 Contacto
+
+¿Tienes alguna pregunta o sugerencia? No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/rodrigo-dorantes/).
