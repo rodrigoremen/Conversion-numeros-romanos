@@ -30,7 +30,7 @@ Si deseas ejecutar este proyecto localmente, sigue estos pasos:
 1. **Clona el repositorio:**
     
     ```bash
-    git clone <https://github.com/rodrigoremen/roman-numerals-converter.git>
+    git clone https://github.com/rodrigoremen/Conversion-numeros-romanos.git
     
     ```
     
